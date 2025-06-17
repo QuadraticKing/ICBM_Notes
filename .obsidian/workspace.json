@@ -11,10 +11,14 @@
             "id": "6b2989b76daa3360",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TEST for GIT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TEST for GIT"
             }
           }
         ]
@@ -164,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1d366705f2c50eb",
+  "active": "6b2989b76daa3360",
   "lastOpenFiles": [
+    "TEST for GIT.md",
     "Welcome.md"
   ]
 }
