@@ -1,0 +1,1 @@
+Weapons shop in [[Sena]]

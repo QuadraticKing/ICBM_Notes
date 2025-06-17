@@ -1,0 +1,1 @@
+Home of a notorious [[Thieves' Guild]] that is free to operate in the city
