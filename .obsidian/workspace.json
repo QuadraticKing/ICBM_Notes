@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on Git.md",
+                "file": "DM Notes/TEST Ignore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes on Git"
+              "title": "TEST Ignore"
             }
           }
         ]
@@ -171,6 +171,7 @@
   "active": "6b2989b76daa3360",
   "lastOpenFiles": [
     "Notes on Git.md",
+    "DM Notes/TEST Ignore.md",
     "Welcome.md"
   ]
 }
